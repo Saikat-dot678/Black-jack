@@ -1,0 +1,49 @@
+
+Blackjack Rules:
+
+1. Card Values:
+   - Number cards (2-10): These are worth their face value (e.g., a 2 is worth 2 points, a 10 is worth 10 points).
+   - Face cards (Jack, Queen, King): These are each worth 10 points.
+   - Ace: The Ace can be worth either 1 point or 11 points, depending on which value helps the player's hand. If the hand would exceed 21 by counting the Ace as 11, then the Ace is worth 1 point.
+
+2. Gameplay:
+   - The game is usually played with one or more decks of standard playing cards.
+   - Each player is dealt two cards, face up.
+   - The dealer is also dealt two cards: one face up and one face down (the "hole card").
+
+3. Player's Turn:
+   - Hit: The player can ask for additional cards to be added to their hand to increase their total value.
+   - Stand: The player can choose to keep their current hand and end their turn.
+   - Double Down: The player can double their original bet and receive exactly one more card.
+   - Split: If the player is dealt two cards of the same value, they can split them into two separate hands and play them individually. The player will need to place an additional bet equal to the original bet for the second hand.
+   - Surrender: Some variations of Blackjack allow the player to forfeit half of their bet and end the game early.
+
+4. Dealer's Turn:
+   - After all players have completed their turns, the dealer reveals their face-down card.
+   - The dealer must hit (take cards) if their hand value is 16 or less and must stand if their hand value is 17 or more.
+   - In some casinos, dealers are required to hit on a "soft 17" (a hand containing an Ace valued as 11, e.g., Ace-6).
+
+5. Winning and Losing:
+   - If the player's hand value is greater than 21, they bust and lose the round.
+   - If the dealer busts (goes over 21), all remaining players win.
+   - If neither the player nor the dealer busts, the hand closest to 21 wins.
+   - If the player and dealer have the same hand value, it's a push (a tie), and the player gets their original bet back.
+
+6. Blackjack:
+   - If a player is dealt an Ace and a 10-point card (10, Jack, Queen, King) as their first two cards, they have a Blackjack, which is an automatic win unless the dealer also has a Blackjack. In that case, it's a push.
+   - A Blackjack usually pays out 1.5 times the original bet.
+
+7. Payouts:
+   - Winning a hand: 1:1 payout (if the hand is closer to 21 than the dealer's without busting).
+   - Blackjack (Ace + 10-point card): 3:2 payout (higher payout for a Blackjack compared to a regular win).
+   - Insurance: If the dealer's face-up card is an Ace, players can take insurance (betting that the dealer has a Blackjack). Insurance usually pays 2:1 if the dealer does have a Blackjack, but if the dealer does not, the insurance bet is lost.
+
+8. Game End:
+   - A round of Blackjack ends when either the player or the dealer has won, or when there is a push (a tie).
+   - The dealer will then shuffle the cards and deal a new round.
+
+Summary of Key Actions:
+   - Hit: Draw another card to improve your hand.
+   - Stand: Keep your hand as is.
+   - Double Down: Double your bet, receive one more card, and then stand.
+   - Split: If you have two cards of the same value, split them into two hands and play each one separately.
